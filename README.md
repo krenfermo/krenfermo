@@ -2,8 +2,8 @@
     Desarrollador Full-Stack | SaaS | IA | Automatización | Data
 
     ---
-    ## 🚀 Proyectos Destacados
-    | Proyecto | Descripción | Stack |
+    ## 🚀 Skills Destacados
+
 | # WhatsApp SaaS Final | Celery · FastAPI · PostgreSQL · React · Redis · Docker -  MinIO ·
 | # RAG Service con MinIO  | Celery · FastAPI · MinIO · PostgreSQL · React · Redis |
 | # mercadolibre-python | Python |
