@@ -12,6 +12,8 @@
 
 | # Text2Speech — | Flask · Docker · Python |
 
+| # Automatizacion de Scrappings
+
     ---
     ## ⚙️ Stack Principal
     - Backend: Python (FastAPI, Flask), Celery, SQLAlchemy
