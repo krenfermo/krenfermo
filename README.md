@@ -1,16 +1,25 @@
-## Hi there 👋
+    # 👨‍💻 Joaquín Mora
+    Desarrollador Full-Stack | SaaS | IA | Automatización | Data
 
-<!--
-**krenfermo/krenfermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ---
+    ## 🚀 Proyectos Destacados
+    | Proyecto | Descripción | Stack |
+| # WhatsApp SaaS Final | Celery · FastAPI · PostgreSQL · React · Redis · Docker -  MinIO ·
+| # RAG Service con MinIO  | Celery · FastAPI · MinIO · PostgreSQL · React · Redis |
+| # mercadolibre-python | Python |
+| # Text2Speech — | Flask · Docker · Python |
 
-Here are some ideas to get you started:
+    ---
+    ## ⚙️ Stack Principal
+    - Backend: Python (FastAPI, Flask), Celery, SQLAlchemy
+    - DevOps: Docker, Nginx, GitHub Actions, AWS / DigitalOcean
+    - Data: PostgreSQL, MySQL, MongoDB, Redis
+    - Otros: WebSockets, REST, ETL, MinIO, RAG/Embeddings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## 📬 Contacto
+    - GitHub: [@krenfermo](https://github.com/krenfermo)
+- Email: morakurt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joaquin-mora-bb360561/
+
+
+
