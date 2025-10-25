@@ -4,9 +4,12 @@
     ---
     ## 🚀 Skills Destacados
 
-| # WhatsApp SaaS Final | Celery · FastAPI · PostgreSQL · React · Redis · Docker -  MinIO ·
+| # WhatsApp SaaS Final | Celery · FastAPI · PostgreSQL · React · Redis · Docker -  MinIO 
+
 | # RAG Service con MinIO  | Celery · FastAPI · MinIO · PostgreSQL · React · Redis |
+
 | # mercadolibre-python | Python |
+
 | # Text2Speech — | Flask · Docker · Python |
 
     ---
