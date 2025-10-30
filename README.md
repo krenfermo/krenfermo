@@ -41,7 +41,7 @@ Full-Stack Developer | SaaS Architect | AI & Automation Engineer | Data-Driven S
     ## 📬 Contacto
     - GitHub: [@krenfermo](https://github.com/krenfermo)
 - Email: morakurt@gmail.com
-- LinkedIn: https://www.linkedin.com/in/joaquin-mora-bb360561/
+- LinkedIn: https://www.linkedin.com/in/joaquin-mora-s/
 
 
 
